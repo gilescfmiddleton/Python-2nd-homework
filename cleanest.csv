@@ -1,0 +1,18 @@
+country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption
+Finland,Western Europe,7.804,1.888,1.585,0.535,0.772,0.126,0.535
+Denmark,Western Europe,7.586,1.949,1.548,0.537,0.734,0.208,0.525
+Netherlands,Western Europe,7.403,1.942,1.488,0.545,0.672,0.251,0.394
+Sweden,Western Europe,7.395,1.921,1.51,0.562,0.754,0.225,0.52
+Norway,Western Europe,7.315,1.994,1.521,0.544,0.752,0.212,0.463
+Switzerland,Western Europe,7.24,2.022,1.463,0.582,0.678,0.151,0.475
+Luxembourg,Western Europe,7.228,2.2,1.357,0.549,0.71,0.149,0.418
+New Zealand,North America and ANZ,7.123,1.842,1.544,0.513,0.672,0.23,0.471
+Austria,Western Europe,7.097,1.927,1.382,0.535,0.63,0.191,0.31
+Australia,North America and ANZ,7.095,1.899,1.497,0.532,0.677,0.242,0.31
+Canada,North America and ANZ,6.961,1.881,1.484,0.541,0.656,0.218,0.364
+Ireland,Western Europe,6.911,2.152,1.425,0.539,0.656,0.186,0.409
+Germany,Western Europe,6.892,1.919,1.401,0.539,0.618,0.153,0.365
+United Kingdom,Western Europe,6.796,1.857,1.366,0.511,0.626,0.272,0.34
+Singapore,Southeast Asia,6.587,2.168,1.354,0.607,0.66,0.17,0.561
+Estonia,Central and Eastern Europe,6.455,1.798,1.526,0.494,0.728,0.153,0.372
+Hong Kong S.A.R. of China,East Asia,5.308,1.951,1.201,0.702,0.407,0.123,0.39
